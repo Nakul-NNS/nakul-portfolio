@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nakul-portfolio-1vcg7f7wz-nsa21.vercel.app/sitemap.xml
